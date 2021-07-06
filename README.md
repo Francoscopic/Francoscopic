@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Francoscopic
-- 👀 I’m interested in creating technologies that are beautiful, functional and can be useful in empowering people
-- 🌱 I’m currently learning Node, VB.NET, Font
-- 💞️ I’m looking to collaborate on creating projects that will make a difference in the world
+- 👀 I’m interested in building the most innovative company in Nigeria by 2030
+- 🌱 I’m currently equiping myself for the future by learning ML/AI, Algorithms & Data Structures, Web Services and Design
+- 💞️ I’m looking to collaborate with people who share the burning fire and fervency to achieve something extraordinary
 - 📫 How to reach me: twitter@francoscopic, joshuafrancis19@gmail.com
 
 <!---
